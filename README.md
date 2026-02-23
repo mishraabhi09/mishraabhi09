@@ -43,9 +43,7 @@
 
 </div>
 
-<div align="center">
-  <img src="./images/github-user-contribution.svg" style="width:70%; max-width:700px;" alt="github graph" />
-</div>
+
 
 
 
